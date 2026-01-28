@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "bin": { "ai-supabase-gen": "dist/cli.js" },
   "scripts": { "build": "tsc" },
-  "keywords": ["supabase","rls","security","policies","database","ai","cli"],
+  "keywords": ["ai", "openai", "gpt", "supabase", "rls", "security", "policies", "database", "postgresql", "backend", "developer-tools", "cli", "automation", "typescript", "baas"],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
