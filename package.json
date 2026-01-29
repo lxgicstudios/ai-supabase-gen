@@ -3,9 +3,32 @@
   "version": "1.0.0",
   "description": "Generate Supabase RLS policies from a Prisma schema file",
   "main": "dist/index.js",
-  "bin": { "ai-supabase-gen": "dist/cli.js" },
-  "scripts": { "build": "tsc" },
-  "keywords": ["ai", "openai", "gpt", "supabase", "rls", "security", "policies", "database", "postgresql", "backend", "developer-tools", "cli", "automation", "typescript", "baas"],
+  "bin": {
+    "ai-supabase-gen": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "ai",
+    "anthropic",
+    "claude",
+    "llm",
+    "openai",
+    "gpt",
+    "supabase",
+    "rls",
+    "security",
+    "policies",
+    "database",
+    "postgresql",
+    "backend",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "baas"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
