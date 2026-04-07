@@ -1,5 +1,5 @@
 {
-  "name": "ai-supabase-gen",
+  "name": "@lxgicstudios/ai-supabase-gen",
   "version": "1.0.0",
   "description": "Generate Supabase RLS policies from a Prisma schema file",
   "main": "dist/index.js",
