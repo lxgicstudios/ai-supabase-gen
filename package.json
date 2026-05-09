@@ -15,9 +15,12 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "agentic",
     "ai",
+    "ai-2025",
     "ai-agent",
+    "ai-powered",
     "anthropic",
     "automation",
     "baas",
@@ -25,24 +28,26 @@
     "claude",
     "cli",
     "database",
+    "developer-productivity",
     "developer-tools",
-    "gpt",
-    "llm",
-    "openai",
-    "policies",
-    "postgresql",
-    "rls",
-    "security",
+    "discoverability",
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
     "supabase",
-    "typescript",
-    "zero-config"
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-supabase-gen#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-supabase-gen.git"
+    "url": "https://github.com/LXGIC-Studios/ai-supabase-gen"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-supabase-gen/issues"
