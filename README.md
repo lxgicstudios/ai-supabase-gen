@@ -16,7 +16,7 @@
 
 # AI Supabase Gen
 
-solve specific development challenges with AI-powered insights.
+AI-powered Supabase schema generator — RLS policies, migrations, and TypeScript types from Prisma. Works with Claude, Cursor, GPT, Copilot.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-supabase-gen.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-supabase-gen)
 [![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-supabase-gen?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-supabase-gen)
@@ -24,9 +24,17 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> Generate Supabase RLS policies from a Prisma schema file.
+> AI-powered Supabase schema generator — RLS policies and TypeScript types from Prisma.
 
-## 🚀 Features
+## 🤖 Works With
+
+| AI Assistant | Support |
+|-------------|---------|
+| 🤖 **Claude / Claude Code** | ✅ Full |
+| 🔵 **Cursor** | ✅ Full |
+| 💚 **GPT / ChatGPT** | ✅ Full |
+| ⚡ **GitHub Copilot** | ✅ Full |
+| 🧩 **MCP Servers** | ✅ Compatible |## 🚀 Features
 
 - Feature 1
 - Feature 2
