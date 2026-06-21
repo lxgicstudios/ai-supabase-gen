@@ -1,13 +1,13 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/LXGIC-Studios">
+  <a href="https://github.com/lxgicstudios">
     <img src="https://img.shields.io/badge/LXGIC%20Studios-⚡-blue?style=for-the-badge&logo=github" alt="LXGIC Studios" />
   </a>
   <a href="https://npmjs.com/package/ai-supabase-gen">
     <img src="https://img.shields.io/npm/v/ai-supabase-gen.svg?style=for-the-badge&logo=npm" alt="npm version" />
   </a>
-  <a href="https://github.com/LXGIC-Studios/ai-supabase-gen/actions">
+  <a href="https://github.com/lxgicstudios/ai-supabase-gen/actions">
     <img src="https://img.shields.io/github/actions/workflow/status/LXGIC-Studios/ai-supabase-gen/ci.yml?branch=main&style=for-the-badge&logo=github" alt="CI" />
   </a>
 </p>
@@ -19,8 +19,8 @@
 AI-powered Supabase schema generator — RLS policies, migrations, and TypeScript types from Prisma. Works with Claude, Cursor, GPT, Copilot.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-supabase-gen.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-supabase-gen)
-[![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-supabase-gen?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-supabase-gen)
-[![License: MIT](https://img.shields.io/npm/l/ai-supabase-gen.svg?style=for-the-badge&logo=mit&color=blue)](https://github.com/LXGIC-Studios/ai-supabase-gen/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-supabase-gen?style=for-the-badge&logo=github&label=stars)](https://github.com/lxgicstudios/ai-supabase-gen)
+[![License: MIT](https://img.shields.io/npm/l/ai-supabase-gen.svg?style=for-the-badge&logo=mit&color=blue)](https://github.com/lxgicstudios/ai-supabase-gen/blob/main/LICENSE)
 
 </div>
 
@@ -120,7 +120,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ### Development Setup
 
 ```bash
-git clone https://github.com/LXGIC-Studios/ai-supabase-gen.git
+git clone https://github.com/lxgicstudios/ai-supabase-gen.git
 cd ai-supabase-gen
 npm install
 npm run dev
@@ -139,7 +139,7 @@ Built with ❤️ by the LXGIC Studios team.
 <div align="center">
 
 **Built by LXGIC Studios**  
-🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)  
-💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/LXGIC-Studios](https://github.com/LXGIC-Studios)
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)  
+💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/LXGIC-Studios](https://github.com/lxgicstudios)
 
 </div>
